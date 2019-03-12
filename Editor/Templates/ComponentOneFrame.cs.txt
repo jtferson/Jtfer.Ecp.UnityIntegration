@@ -1,0 +1,6 @@
+﻿﻿using Jtfer.Ecp;
+
+namespace #NS# {
+    [OneFrame]
+    sealed class #SCRIPTNAME# { }
+}

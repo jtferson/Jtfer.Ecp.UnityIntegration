@@ -1,0 +1,16 @@
+{
+    "name": "Jtfer.Ecp.UnityIntegration",
+    "references": [
+        "Jtfer.Ecp"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

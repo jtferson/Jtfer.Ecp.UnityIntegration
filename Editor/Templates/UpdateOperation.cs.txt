@@ -1,0 +1,13 @@
+﻿﻿using Jtfer.Ecp;
+
+namespace #NS# {
+    [EcpInject]
+    sealed class #SCRIPTNAME# : IUpdateOperation {
+        // Auto-injected fields.
+        EntityManager _manager = null;
+        
+        void IUpdateOperation.Run () {
+            // Add your run code here.
+        }
+    }
+}

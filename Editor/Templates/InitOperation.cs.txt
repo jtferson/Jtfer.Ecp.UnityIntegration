@@ -1,0 +1,15 @@
+﻿﻿using Jtfer.Ecp;
+
+namespace #NS# {
+    [EcpInject]
+    sealed class #SCRIPTNAME# : IInitOperation {
+        // Auto-injected fields.
+        EntityManager _manager = null;
+        
+        void IInitOperation.Initialize () {
+            // Add your initialize code here.
+        }
+
+        void IInitOperation.Destroy () { }
+    }
+}
